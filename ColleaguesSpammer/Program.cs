@@ -81,7 +81,10 @@ namespace ColleaguesSpammer {
                     .Append("<br/>");
             }
 
-            sb.Append("</p><p>Cordiali saluti.</p>");
+            sb
+                .Append("</p><p>Cordiali saluti.</p><br/><br/>")
+                .Append("<p>Generated with ❤ by ")
+                .Append("<a href=\"https://github.com/carlopantaleo/ColleaguesSpammer\">ColleaguesSpammer</a></p>");
 
             return sb.ToString();
         }
