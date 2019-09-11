@@ -122,11 +122,13 @@ namespace ColleaguesSpammer {
                 "Il nuovo soggeto sociale", "L'approccio programmatico", "L'assetto politico istituzionale",
                 "Il criterio metodologico", "Il modello di sviluppo", "Il metodo partecipativo",
                 "La configurazione epistemologica", "L'oggetto identificativo", "Il sostantivo auspicabile",
-                "La volontà inconfutabile"
+                "La volontà inconfutabile", "L'imprescindibile inconfutabilità dell'essere",
+                "Il significato ultimo dell'incorreggibilità umana", "La catarsi vicendevole", "L'impianto antitetico"
             },
             new List<string> {
                 "si caratterizza per", "privilegia", "prefigura", "riconduce a sintesi per", "persegue", "estrinseca",
-                "si propone", "presuppone", "porta avanti", "auspica", "intende", "si analizza considerando", "estende"
+                "si propone", "presuppone", "porta avanti", "auspica", "intende", "si analizza considerando", "estende",
+                "difende", "offende", "annulla", "interessa"
             },
             new List<string> {
                 "il ribaltamento della logica assistenziale preesistente",
@@ -138,7 +140,13 @@ namespace ColleaguesSpammer {
                 "l'accorpamento delle funzioni ed il decentramento decisionale",
                 "la ricognizione del bisogno emergente e della domanda non soddisfatta",
                 "la riconversione ed articolazione periferica dei servizi",
-                "un corretto rapporto tra strutture e sovrastrutture"
+                "un corretto rapporto tra strutture e sovrastrutture",
+                "un modello organizzativo di gruppo",
+                "un supporto normativo paritetico",
+                "una linea antropologica migliorativa volta agli interessi umani",
+                "il progetto normativo assistenziale con fini ludici ambivalenti",
+                "la conversazione articolata tra le parti",
+                "il sunto epistemologico della diatriba palingenetica sull'origine non soddisfacente delle cose"
             },
             new List<string> {
                 "nel primario interesse della popolazione", "senza pregiudicare l'attuale livello delle prestazioni",
@@ -146,14 +154,16 @@ namespace ColleaguesSpammer {
                 "in una visione organica e ricondotta a unità", "con criteri non dirigistici",
                 "al di là delle contraddizioni e difficoltà iniziali", "in maniera articolata e non totalizzante",
                 "attraverso i meccanismi della partecipazione", "senza precostituzione delle risposte",
-                "con auspicabilità da parte dell'insieme delle parti"
+                "con auspicabilità da parte dell'insieme delle parti", "con <i>se</i> e senza <i>ma</i>",
+                "nell'ottica del comprendere e senza mai sottintendere"
             },
             new List<string> {
                 "sostanziando e vitalizzando,", "recuperando ovvero rivalutando,", "ipotizzando e perseguendo,",
                 "non assumendo mai come implicito,", "fattualizzando e concretizzando,",
                 "non sottacendo ma anzi puntualizzando,", "potenziando ed incrementando,",
-                "non dando certo per scontato,",
-                "evidenziando ed esplicitando,", "attivando ed implementando,"
+                "non dando certo per scontato,", "evidenziando ed esplicitando,", "attivando ed implementando,",
+                "sviluppando e differenziando,", "ritrovando senza mezzi termini,",
+                "venendo incontro alle esigenze costruttive,"
             },
             new List<string> {
                 "nei tempi brevi, anzi brevissimi,", "in un ottica preventiva e non più curativa,",
